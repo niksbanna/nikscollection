@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nikscollection/static/css/main.93a78ff0.css",
+    "main.js": "/nikscollection/static/js/main.0c4e6cee.js",
+    "static/media/shopping-bag.svg": "/nikscollection/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/nikscollection/static/media/crown.207ae289b221bfaca0108507f9bb2f85.svg",
+    "index.html": "/nikscollection/index.html",
+    "main.93a78ff0.css.map": "/nikscollection/static/css/main.93a78ff0.css.map",
+    "main.0c4e6cee.js.map": "/nikscollection/static/js/main.0c4e6cee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a78ff0.css",
+    "static/js/main.0c4e6cee.js"
+  ]
+}
